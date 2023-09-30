@@ -1,0 +1,12 @@
+C:\Users\Austin Rippee\source\repos\Rippee_A8_311\Rippee_A8_311\bin\Debug\Rippee_A8_311.exe.config
+C:\Users\Austin Rippee\source\repos\Rippee_A8_311\Rippee_A8_311\bin\Debug\Rippee_A8_311.exe
+C:\Users\Austin Rippee\source\repos\Rippee_A8_311\Rippee_A8_311\bin\Debug\Rippee_A8_311.pdb
+C:\Users\Austin Rippee\source\repos\Rippee_A8_311\Rippee_A8_311\bin\Debug\Rippee_A8_311.xml
+C:\Users\Austin Rippee\source\repos\Rippee_A8_311\Rippee_A8_311\obj\Debug\Rippee_311_A8.vbproj.AssemblyReference.cache
+C:\Users\Austin Rippee\source\repos\Rippee_A8_311\Rippee_A8_311\obj\Debug\Rippee_A8_311.frmAutos.resources
+C:\Users\Austin Rippee\source\repos\Rippee_A8_311\Rippee_A8_311\obj\Debug\Rippee_A8_311.Resources.resources
+C:\Users\Austin Rippee\source\repos\Rippee_A8_311\Rippee_A8_311\obj\Debug\Rippee_311_A8.vbproj.GenerateResource.cache
+C:\Users\Austin Rippee\source\repos\Rippee_A8_311\Rippee_A8_311\obj\Debug\Rippee_311_A8.vbproj.CoreCompileInputs.cache
+C:\Users\Austin Rippee\source\repos\Rippee_A8_311\Rippee_A8_311\obj\Debug\Rippee_A8_311.exe
+C:\Users\Austin Rippee\source\repos\Rippee_A8_311\Rippee_A8_311\obj\Debug\Rippee_A8_311.xml
+C:\Users\Austin Rippee\source\repos\Rippee_A8_311\Rippee_A8_311\obj\Debug\Rippee_A8_311.pdb
